@@ -1,0 +1,24 @@
+@import "style.css";
+
+@media only screen and (min-width: 1000px) {
+    main .wrapper {
+        align-items: center;
+        display: flex;
+    }
+
+    main .main-info {
+        display: inline-block;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    /*main .main-info ul {*/
+    /*    display: block;*/
+    /*    font-size: 16px;*/
+    /*    padding: 0 30px 20px;*/
+    /*}*/
+
+
+
+
+}

@@ -1,0 +1,22 @@
+@import "style.css";
+
+@media only screen and (min-width: 1000px) {
+    main .wrapper {
+        /*align-items: center;*/
+        display: flex;
+    }
+
+    main .main-info {
+        display: inline-block;
+        margin: 0 auto;
+        width: 60%;
+    }
+
+    main .main-info h3 {
+        font-size: 28px;
+    }
+
+    main .main-info p {
+        font-size: 20px;
+    }
+}
